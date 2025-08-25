@@ -1,5 +1,7 @@
 {
   "format": "dwca",
   "citation": "University of California Santa Barbara Invertebrate Zoology Collection",
-  "url": "https://ecdysis.org/content/dwca/UCSB-IZC_DwC-A.zip"
+  "_url": "https://ecdysis.org/content/dwca/UCSB-IZC_DwC-A.zip",
+  "_comment": "DWC endpoint temporarily disabled due to Symbiota Portal outage starting at July 2025; related to https://github.com/bio-guoda/preston/issues/353",
+  "url": "https://linker.bio/urn:uuid:65007e62-740c-4302-ba20-260fe68da291"
 }
